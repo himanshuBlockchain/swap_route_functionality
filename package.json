@@ -1,0 +1,16 @@
+{
+  "name": "web3_route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/smart-order-router": "^2.5.32"
+  },
+  "type":"module"
+}
